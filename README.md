@@ -9,8 +9,8 @@ This mod fixes several items in "Modern Infantry"
 
 ## Mod Support
 
-* R.E.D. Modpack
 * R.E.D Total War Unified Modpack
+* R.E.D. Modpack
 
 ## Requirements
 
