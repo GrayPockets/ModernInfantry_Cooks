@@ -1,10 +1,10 @@
-# GrayPockets - Modern Infantry - Fixes
+# GrayPockets - Modern Infantry - Cooks
 
 ## Description
 
-This mod fixes several items in "Modern Infantry"
+This mod cooks several items in "Modern Infantry"
 
-* Modern Infantry units now receive +5 Combat Strength on hills
+* Modern Infantry units now correctly receive +5 Combat Strength on hills
 * R.E.D.: Modern Infantry Units now scale.
 
 ## Mod Support
